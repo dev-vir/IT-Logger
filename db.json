@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Updated System Security in System #7015",
+      "attention": true,
+      "tech": "Rick Martin",
+      "date": "2020-05-12T15:14:57.444Z"
+    },
+    {
+      "id": 2,
+      "message": "Need urgent review of system security i system #7056 => Review The System security",
+      "attention": false,
+      "tech": "Rick Martin",
+      "date": "2020-05-12T15:12:02.830Z"
+    },
+    {
+      "message": "Issue number 1024568 is not resolved in system #4582",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-05-12T13:22:02.020Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Vipin",
+      "lastName": "Pandey"
+    },
+    {
+      "id": 2,
+      "firstName": "Vir",
+      "lastName": "Pandey"
+    },
+    {
+      "id": 3,
+      "firstName": "Dev",
+      "lastName": "Vir"
+    }
+  ]
+}
