@@ -2,17 +2,17 @@
   "logs": [
     {
       "id": 1,
-      "message": "Updated System Security in System #7015",
+      "message": "Updated System Security in System #7015 => Updated System security is not working.",
       "attention": true,
       "tech": "Rick Martin",
-      "date": "2020-05-12T15:14:57.444Z"
+      "date": "2020-05-13T05:53:57.325Z"
     },
     {
       "id": 2,
-      "message": "Need urgent review of system security i system #7056 => Review The System security",
+      "message": "Need urgent review of system security i system #7056  => Review The System security",
       "attention": false,
       "tech": "Rick Martin",
-      "date": "2020-05-12T15:12:02.830Z"
+      "date": "2020-05-13T05:57:54.059Z"
     },
     {
       "message": "Issue number 1024568 is not resolved in system #4582",
